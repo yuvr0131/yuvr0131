@@ -1,14 +1,12 @@
 ![logo](https://github.com/yuvr0131/yuvr0131/blob/main/Untitled%20design.png)
 <h1 align="center">Hi 👋, I'm YUVRAJ SINGH</h1>
-<h3 align="center">A passionate MERN developer from India</h3>
+<h3 align="center">A Data Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yuvr0131&label=Profile%20views&color=0e75b6&style=flat" alt="yuvr0131" /> </p>
 
-- 🔭 I’m currently working on [village Darshan](https://66a504557b4de52d37415324--magical-tiramisu-718887.netlify.app/)
+- 🌱 I’m currently learning **Airflow,AWS,Hive,Pyspark**
 
-- 🌱 I’m currently learning **NODEJS , EXPRESSJS, MONGODB**
-
-- 💬 Ask me about **DSA, REACT, OS, CN, DBMS, OOPS**
+- 💬 Ask me about **Data Engineer**
 
 - 📫 How to reach me **yuvr0131@gmail.com**
 
